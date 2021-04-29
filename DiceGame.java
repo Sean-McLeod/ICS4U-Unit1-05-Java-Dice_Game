@@ -1,6 +1,6 @@
 /*
 * This program generates a random number and
-* lets the user guess it
+* lets the user guess it.
 *
 * @author  Sean McLeod
 * @version 1.0
